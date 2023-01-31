@@ -5,6 +5,8 @@
 
 ### Step 1 ( Add below code in composer.json at your project root directory ):
 ```bash
+    ( Required version 2.2.1+ )
+    
     "repositories": [
         {
             "type": "vcs",
